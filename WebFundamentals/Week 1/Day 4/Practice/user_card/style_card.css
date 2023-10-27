@@ -1,0 +1,42 @@
+.container{
+    background-color: aqua;
+    height: 148px;
+    width: 55%;
+    margin: auto;
+    margin-top: 50px;
+}
+.top{
+    display: flex;
+    margin-left: 60px;
+    height: 133px;
+    padding-top: 79px
+}
+h1{
+    margin-left: 60px;   
+}
+.loc{
+    display: flex;
+    height: 33px;
+    margin-left: 60px;
+}
+h3{
+    margin-left: 12px;
+    height: 15px;
+}
+.bot{
+    display: flex;
+    height: 20px;
+    margin-left: 60px;
+    margin-top: 148px;
+}
+h5{
+    margin-left: 12px;
+    height: 15px;
+    margin-top: 3px;
+    text-decoration-line: underline;
+    color: rgb(56, 56, 173);
+}
+p{
+    margin-bottom: -11px;
+    margin-left: 60px;
+}
