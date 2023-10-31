@@ -1,0 +1,131 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+nav {
+    background-color: black;
+    padding: 0px auto;
+    width: 600px;
+    height: 40px;
+    margin-left: 300px;
+    margin-top: 20px;
+}
+
+.title {
+    color: white;
+    font-size: x-large;
+    padding-top: 6px;
+    padding-left: 9px;
+    margin-left: 400px
+}
+
+h1 {
+    position: relative;
+    left: 500px;
+    padding-top: 15px;
+}
+
+.profile {
+    height: 300px;
+    width: 200px;
+    position: relative;
+    border: solid;
+    left: 150px;
+    margin-left: 200px;
+}
+
+.profile img {
+    position: relative;
+    width: 90px;
+    padding-left: 19px;
+    padding-top: 30px;
+    left: 40px;
+}
+
+a {
+    position: relative;
+    left: 1px;
+    top: 40px;
+}
+
+#user {
+    position: relative;
+    left: 66px;
+    top: 70px;
+}
+
+
+#first-container {
+    position: relative;
+    border: solid;
+    border-color: black;
+    height: 150px;
+    width: 500px;
+    left: 400px;
+    bottom: 300px;
+    margin-left: 200px;
+}
+
+h2 {
+    position: relative;
+    left: 20px;
+    top: 15px;
+}
+
+.info {
+    position: relative;
+    left: 280px;
+    bottom: 5px;
+}
+
+
+.button {
+    position: relative;
+    background-color: #FFD966;
+    color: black;
+    left: 400px;
+    bottom: 20px;
+    padding: 3px 20px;
+    border: solid;
+}
+
+
+.tweet {
+    position: relative;
+}
+
+span {
+    text-decoration: underline;
+    color: blue;
+}
+
+#second-container {
+    position: relative;
+    height: 150px;
+    width: 500px;
+    border: solid;
+    left: 400px;
+    bottom: 290px;
+    margin-left: 200px;
+}
+
+#second-user {
+    position: relative;
+    bottom: 20px;
+}
+
+.tweet {
+    left: 15px;
+}
+
+#third-container {
+    position: relative;
+    height: 150px;
+    width: 500px;
+    border: solid;
+    left: 400px;
+    bottom: 280px;
+    margin-left: 200px;
+}
