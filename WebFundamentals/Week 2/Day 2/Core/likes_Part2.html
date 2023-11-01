@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Likes</title>
+    <link rel="stylesheet" href="likesStyle_Part2.css">
+</head>
+
+<body>
+    <nav class="title"> Network </nav>
+    <h1>Your Feed</h1>
+    <div class="profile">
+        <img src="user.png" alt="">
+        <a href="#">Add Avatar</a>
+        <p id="user">James Doe</p>
+    </div>
+
+    <div id="first-container">
+        <h2 id="second-user">Neil M</h2>
+        <p class="info"> <span id="like1">0</span> likes</p>
+        <button class="button" onclick="increment()">Like</button>
+        <p class="tweet"> I just set up thins new Discord bot,let me know what you all think <span class="color">Link</span></p>
+    </div>
+    <div id="second-container">
+        <h2> Nichole k</h2>
+        <p class="info"> <span id="like2">0</span> likes</p>
+        <button class="button" onclick="increment1()">Like</button>
+        <p class="tweet">Just finished my <span class="color"> next comic</span> check it out</p>
+    </div>
+    <div id="third-container">
+        <h2>Jim R</h2>
+        <p class="info"> <span id="like3">0</span>likes</p>
+        <button class="button" onclick="increment2(this)">Like</button>
+        <p class="tweet">I can't stop listening to the <span class="color"> new album</span> who else is liking it?</p>
+    </div>
+    <script src="likesScript_Part2.js"></script>
+</body>
+
+</html>
