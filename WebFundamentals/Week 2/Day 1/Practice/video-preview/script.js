@@ -1,19 +1,8 @@
-
-function playfunc(element) {
-    element.muted = true;
+function startvideo (element){
+    element.musted = true;
     element.play();
-    console.log("on");
 }
-function pausefunc(element) {
+
+function stopvideo (element){
     element.pause();
-}
-function mutefunc(element) {
-    if (element.muted === false) {
-        element.muted = true;
-        console.log("video muted");
-    }
-    else {
-        element.muted = false;
-        console.log("video son ");
-    }
 }
