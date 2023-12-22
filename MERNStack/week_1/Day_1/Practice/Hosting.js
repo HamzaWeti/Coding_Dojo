@@ -1,6 +1,6 @@
 console.log(hello);                                   
 var hello = 'world';                                 
-// Undefined
+Undefined
 
 
 2
@@ -10,7 +10,7 @@ function test(){
     var needle = 'magnet';
     console.log(needle);l
 }
-// magnet
+magnet
 
 
 3
@@ -20,7 +20,7 @@ function print(){
     console.log(brendan);
 }
 console.log(brendan);
-// super cool
+super cool
 
 
 
@@ -33,8 +33,8 @@ function eat(){
     console.log(food);
     var food = 'gone';
 }
-// chiken
-// half-chiken
+chiken
+half-chiken
 
 
 5
@@ -61,10 +61,10 @@ function rewind() {
     console.log(genre);
 }
 console.log(genre);
-// Undefined   
-// rock
-// r&b
-// disco
+Undefined   
+rock
+r&b
+disco
 
 
 7
@@ -78,10 +78,10 @@ function learn() {
     console.log(dojo);
 }
 console.log(dojo);copy
-// san jose
-// seattle
-// burbank
-// san jose
+san jose
+seattle
+burbank
+san jose
 
 
 8 
@@ -99,4 +99,4 @@ function makeDojo(name, students){
     }
     return dojo;
 }
-// { name: 'Chicago', students: 65, hiring: true }
+{ name: 'Chicago', students: 65, hiring: true }
