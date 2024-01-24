@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\Desktop\\Coding_Dojo\\c# .net\\week_1\\Day_1\\Practice\\DebuggingPractice\\DebuggingPractice.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Desktop\\Coding_Dojo\\C Sarp .net\\week_1\\Day_1\\Practice\\DebuggingPractice\\DebuggingPractice.csproj",
       "projectName": "DebuggingPractice",
-      "projectPath": "C:\\Users\\pc\\Desktop\\Coding_Dojo\\c# .net\\week_1\\Day_1\\Practice\\DebuggingPractice\\DebuggingPractice.csproj",
+      "projectPath": "C:\\Users\\pc\\Desktop\\Coding_Dojo\\C Sarp .net\\week_1\\Day_1\\Practice\\DebuggingPractice\\DebuggingPractice.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\Desktop\\Coding_Dojo\\c# .net\\week_1\\Day_1\\Practice\\DebuggingPractice\\obj\\",
+      "outputPath": "C:\\Users\\pc\\Desktop\\Coding_Dojo\\C Sarp .net\\week_1\\Day_1\\Practice\\DebuggingPractice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config"

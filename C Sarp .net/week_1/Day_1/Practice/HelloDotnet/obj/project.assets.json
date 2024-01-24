@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\Desktop\\Coding_Dojo\\c# .net\\week_1\\Day_1\\Practice\\HelloDotnet\\HelloDotnet.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Desktop\\Coding_Dojo\\C Sarp .net\\week_1\\Day_1\\Practice\\HelloDotnet\\HelloDotnet.csproj",
       "projectName": "HelloDotnet",
-      "projectPath": "C:\\Users\\pc\\Desktop\\Coding_Dojo\\c# .net\\week_1\\Day_1\\Practice\\HelloDotnet\\HelloDotnet.csproj",
+      "projectPath": "C:\\Users\\pc\\Desktop\\Coding_Dojo\\C Sarp .net\\week_1\\Day_1\\Practice\\HelloDotnet\\HelloDotnet.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\Desktop\\Coding_Dojo\\c# .net\\week_1\\Day_1\\Practice\\HelloDotnet\\obj\\",
+      "outputPath": "C:\\Users\\pc\\Desktop\\Coding_Dojo\\C Sarp .net\\week_1\\Day_1\\Practice\\HelloDotnet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
