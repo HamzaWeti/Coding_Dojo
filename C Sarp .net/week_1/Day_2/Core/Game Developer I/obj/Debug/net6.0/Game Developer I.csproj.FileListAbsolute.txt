@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Coding_Dojo\C Sarp .net\week_1\Day_2\Core\Game Developer I\obj\Debug\net6.0\Game Developer I.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Coding_Dojo\C Sarp .net\week_1\Day_2\Core\Game Developer I\obj\Debug\net6.0\Game Developer I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Coding_Dojo\C Sarp .net\week_1\Day_2\Core\Game Developer I\obj\Debug\net6.0\Game Developer I.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Coding_Dojo\C Sarp .net\week_1\Day_2\Core\Game Developer I\obj\Debug\net6.0\Game Developer I.AssemblyInfo.cs
+C:\Users\pc\Desktop\Coding_Dojo\C Sarp .net\week_1\Day_2\Core\Game Developer I\obj\Debug\net6.0\Game Developer I.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Coding_Dojo\C Sarp .net\week_1\Day_2\Core\Game Developer I\bin\Debug\net6.0\Game Developer I.exe
+C:\Users\pc\Desktop\Coding_Dojo\C Sarp .net\week_1\Day_2\Core\Game Developer I\bin\Debug\net6.0\Game Developer I.deps.json
+C:\Users\pc\Desktop\Coding_Dojo\C Sarp .net\week_1\Day_2\Core\Game Developer I\bin\Debug\net6.0\Game Developer I.runtimeconfig.json
+C:\Users\pc\Desktop\Coding_Dojo\C Sarp .net\week_1\Day_2\Core\Game Developer I\bin\Debug\net6.0\Game Developer I.dll
+C:\Users\pc\Desktop\Coding_Dojo\C Sarp .net\week_1\Day_2\Core\Game Developer I\bin\Debug\net6.0\Game Developer I.pdb
+C:\Users\pc\Desktop\Coding_Dojo\C Sarp .net\week_1\Day_2\Core\Game Developer I\obj\Debug\net6.0\Game Developer I.dll
+C:\Users\pc\Desktop\Coding_Dojo\C Sarp .net\week_1\Day_2\Core\Game Developer I\obj\Debug\net6.0\refint\Game Developer I.dll
+C:\Users\pc\Desktop\Coding_Dojo\C Sarp .net\week_1\Day_2\Core\Game Developer I\obj\Debug\net6.0\Game Developer I.pdb
+C:\Users\pc\Desktop\Coding_Dojo\C Sarp .net\week_1\Day_2\Core\Game Developer I\obj\Debug\net6.0\Game Developer I.genruntimeconfig.cache
+C:\Users\pc\Desktop\Coding_Dojo\C Sarp .net\week_1\Day_2\Core\Game Developer I\obj\Debug\net6.0\ref\Game Developer I.dll
