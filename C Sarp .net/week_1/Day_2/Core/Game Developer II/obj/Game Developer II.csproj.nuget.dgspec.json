@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Desktop\\Coding_Dojo\\C Sarp .net\\week_1\\Day_2\\Practice\\RideMaker\\RideMaker.csproj": {}
+    "C:\\Users\\pc\\Desktop\\Coding_Dojo\\C Sarp .net\\week_1\\Day_2\\Core\\Game Developer II\\Game Developer II.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Desktop\\Coding_Dojo\\C Sarp .net\\week_1\\Day_2\\Practice\\RideMaker\\RideMaker.csproj": {
+    "C:\\Users\\pc\\Desktop\\Coding_Dojo\\C Sarp .net\\week_1\\Day_2\\Core\\Game Developer II\\Game Developer II.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\Coding_Dojo\\C Sarp .net\\week_1\\Day_2\\Practice\\RideMaker\\RideMaker.csproj",
-        "projectName": "RideMaker",
-        "projectPath": "C:\\Users\\pc\\Desktop\\Coding_Dojo\\C Sarp .net\\week_1\\Day_2\\Practice\\RideMaker\\RideMaker.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\Coding_Dojo\\C Sarp .net\\week_1\\Day_2\\Core\\Game Developer II\\Game Developer II.csproj",
+        "projectName": "Game Developer II",
+        "projectPath": "C:\\Users\\pc\\Desktop\\Coding_Dojo\\C Sarp .net\\week_1\\Day_2\\Core\\Game Developer II\\Game Developer II.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\Coding_Dojo\\C Sarp .net\\week_1\\Day_2\\Practice\\RideMaker\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\Coding_Dojo\\C Sarp .net\\week_1\\Day_2\\Core\\Game Developer II\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Desktop\\Coding_Dojo\\C Sarp .net\\week_1\\Day_2\\Practice\\RideMaker\\RideMaker.csproj": {}
+    "C:\\Users\\pc\\Desktop\\Coding_Dojo\\C Sarp .net\\week_1\\Day_3\\Core\\DojoSurvey\\DojoSurvey.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Desktop\\Coding_Dojo\\C Sarp .net\\week_1\\Day_2\\Practice\\RideMaker\\RideMaker.csproj": {
+    "C:\\Users\\pc\\Desktop\\Coding_Dojo\\C Sarp .net\\week_1\\Day_3\\Core\\DojoSurvey\\DojoSurvey.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\Coding_Dojo\\C Sarp .net\\week_1\\Day_2\\Practice\\RideMaker\\RideMaker.csproj",
-        "projectName": "RideMaker",
-        "projectPath": "C:\\Users\\pc\\Desktop\\Coding_Dojo\\C Sarp .net\\week_1\\Day_2\\Practice\\RideMaker\\RideMaker.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\Coding_Dojo\\C Sarp .net\\week_1\\Day_3\\Core\\DojoSurvey\\DojoSurvey.csproj",
+        "projectName": "DojoSurvey",
+        "projectPath": "C:\\Users\\pc\\Desktop\\Coding_Dojo\\C Sarp .net\\week_1\\Day_3\\Core\\DojoSurvey\\DojoSurvey.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\Coding_Dojo\\C Sarp .net\\week_1\\Day_2\\Practice\\RideMaker\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\Coding_Dojo\\C Sarp .net\\week_1\\Day_3\\Core\\DojoSurvey\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
