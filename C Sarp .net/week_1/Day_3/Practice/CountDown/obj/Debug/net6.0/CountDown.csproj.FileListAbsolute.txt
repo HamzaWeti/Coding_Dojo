@@ -1,0 +1,5 @@
+C:\Users\pc\Desktop\Coding_Dojo\C Sarp .net\week_1\Day_3\Practice\CountDown\obj\Debug\net6.0\CountDown.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Coding_Dojo\C Sarp .net\week_1\Day_3\Practice\CountDown\obj\Debug\net6.0\CountDown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Coding_Dojo\C Sarp .net\week_1\Day_3\Practice\CountDown\obj\Debug\net6.0\CountDown.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Coding_Dojo\C Sarp .net\week_1\Day_3\Practice\CountDown\obj\Debug\net6.0\CountDown.AssemblyInfo.cs
+C:\Users\pc\Desktop\Coding_Dojo\C Sarp .net\week_1\Day_3\Practice\CountDown\obj\Debug\net6.0\CountDown.csproj.CoreCompileInputs.cache
