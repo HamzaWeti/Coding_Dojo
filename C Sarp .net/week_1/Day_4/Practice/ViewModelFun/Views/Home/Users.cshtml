@@ -1,0 +1,8 @@
+@model List<string>;
+    <div class="text-center">
+    <h1 class="display-4">Herte is a List of Users</h1>
+    @{foreach (string nms in Model) {
+        <h1>@nms</h1>
+    }
+    }
+</div>
