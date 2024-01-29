@@ -1,11 +1,20 @@
 using Microsoft.AspNetCore.Mvc;
-
-namespace DojoSurvey.Controllers;  
-public class DojoController : Controller   
+namespace Countdown.Controllers;   
+public class DojoController : Controller     
 {      
     [HttpGet("")]
-    public ViewResult Index()
+    public ViewResult Index()        
+    {            
+        return View();        
+    }
+    [HttpPost("Results")]
+    public IActionResult Process(string name, string location , string fav , string comment)
     {
-        return View("Index");
+        ViewBag.name = name;
+        ViewBag.location = location;
+        ViewBag.fav = fav;
+        ViewBag.comment = comment ;
+
+        return View("View");
     }
 }
