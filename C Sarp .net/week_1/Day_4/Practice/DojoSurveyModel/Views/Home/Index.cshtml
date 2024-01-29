@@ -1,0 +1,35 @@
+﻿@model Survey
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <form asp-controller="Home" asp-action="CreateDojo" class="card-body" method="post">
+            <div class="form-group mb-3">
+                <label asp-for="name"></label>
+                <input class="form-control" asp-for="name">
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="location"></label>
+                <input class="form-control" asp-for="location">
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="language"></label>
+                <input asp-for="language" class="form-control">
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="comment" class="form-check-label">comment</label>
+                <input asp-for="comment">
+            </div>
+            <div class="text-end">
+                <button class="btn btn-primary w-50">Submit</button>
+            </div>
+        </form>
+</body>
+
+</html>

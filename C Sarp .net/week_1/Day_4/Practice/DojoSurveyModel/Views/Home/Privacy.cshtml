@@ -1,0 +1,31 @@
+﻿@model Survey
+
+<div class="text-center">
+    <h1 class="display-4">All Dojo </h1>
+
+    @if (Model != null)
+    {
+        
+            <div class="card shadow p-3 mb-3">
+                <div class="card-body">
+                    <div class="mb-3">
+                        <h4>name : @Model.name</h4>
+                    </div>
+                    <div class="mb-3">
+                        <h4>location : @Model.location</h4>
+                    </div>
+                    <div class="mb-3">
+                        <h4>language : @Model.language</h4>
+                    </div>
+                    <div class="mb-3">
+                        <h4>comment : @Model.comment</h4>
+                    </div>
+                </div>
+            </div>
+        
+    }
+    else
+    {
+        <p>No surveys available.</p>
+    }
+</div>
